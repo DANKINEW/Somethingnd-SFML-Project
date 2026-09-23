@@ -1,2 +1,3 @@
 # IN DEVELOPMENT...
 Wait for the release dont ping me
+Ping will result in a repo suspension
